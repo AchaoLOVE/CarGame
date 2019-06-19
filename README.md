@@ -27,7 +27,7 @@
 ```
                                  
 * 2.转换后地图就成一格一格,如图
-![](https://github.com/AchaoLOVE/CarGame/raw/master/carmove.gif)
+![](https://github.com/AchaoLOVE/CarGame/raw/master/grid.png)
 
 
 * 3.根据小车移动到的所在格子取出对应的模型来判断小车是否能够移动,并且让小车匀速移动,到达目标位置判断是否是正确答案.
